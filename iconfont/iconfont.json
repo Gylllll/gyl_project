@@ -1,0 +1,163 @@
+{
+  "id": "1412825",
+  "name": "meituan",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "454138",
+      "name": "丽人",
+      "font_class": "liren",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "1354929",
+      "name": "家装",
+      "font_class": "jiazhuang",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "1591581",
+      "name": "右标",
+      "font_class": "youbiao",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "1927437",
+      "name": "健身",
+      "font_class": "jianshen",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "2007482",
+      "name": "酒店",
+      "font_class": "hotel",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "2251738",
+      "name": "亲子",
+      "font_class": "qinzi",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "3058818",
+      "name": "猫眼new",
+      "font_class": "Artboard",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "3931506",
+      "name": "酒吧",
+      "font_class": "jiuba",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "4864600",
+      "name": "火车",
+      "font_class": "huoche",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "5306884",
+      "name": "star",
+      "font_class": "stare",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "6482898",
+      "name": "房子",
+      "font_class": "icon-test",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "7049711",
+      "name": "医疗",
+      "font_class": "yiliao",
+      "unicode": "e8ad",
+      "unicode_decimal": 59565
+    },
+    {
+      "icon_id": "7259664",
+      "name": "钻石",
+      "font_class": "zuanshi",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "8719403",
+      "name": "icon_btn_left",
+      "font_class": "icon_btn_left",
+      "unicode": "e6e8",
+      "unicode_decimal": 59112
+    },
+    {
+      "icon_id": "8719718",
+      "name": "icon_btn_right",
+      "font_class": "icon_btn_right",
+      "unicode": "e6ea",
+      "unicode_decimal": 59114
+    },
+    {
+      "icon_id": "8740839",
+      "name": "培训",
+      "font_class": "peixun",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "8886378",
+      "name": "美食",
+      "font_class": "meishi",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "9366634",
+      "name": "定位",
+      "font_class": "location",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "9845037",
+      "name": "KTV",
+      "font_class": "KTV",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "10013307",
+      "name": "生活服务",
+      "font_class": "shenghuofuwu",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "10403340",
+      "name": "美团",
+      "font_class": "meituan",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "10793030",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    }
+  ]
+}
